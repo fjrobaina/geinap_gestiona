@@ -94,9 +94,7 @@ Firma Electrónica
 
     .
     ├── Memoria.pdf
-    
     ├── Poster.pdf
-    
     └── README.md
 
 
