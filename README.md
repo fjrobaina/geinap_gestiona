@@ -27,23 +27,42 @@ La solución elimina la intervención manual durante el proceso administrativo m
     Mejorar la trazabilidad del procedimiento.
 
 🏗 Arquitectura
+                     
                      GEINAP
+                     
+                        
                         │
+                        
                         ▼
+                     
                      Node-RED
+                        
                         │
+        
         REST API + Bus de Eventos
+        
                         │
+                        
                         ▼
+                        
                     Gestiona
+                    
                         │
+                        
                  Firma electrónica
+                 
                         │
+                        
                         ▼
+                        
                  Registro de salida
+                 
                         │
+                        
                         ▼
+                        
                      GEINAP
+                     
                      
 🔄 Flujo del procedimiento
       Solicitud
