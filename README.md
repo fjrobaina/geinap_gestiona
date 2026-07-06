@@ -28,39 +28,23 @@ La solución elimina la intervención manual durante el proceso administrativo m
 
 🏗 Arquitectura
                      
-                     GEINAP
-                     
-                        
-                        │
-                        
-                        ▼
-                     
-                     Node-RED
-                        
-                        │
-        
-        REST API + Bus de Eventos
-        
-                        │
-                        
-                        ▼
-                        
-                    Gestiona
-                    
-                        │
-                        
-                 Firma electrónica
-                 
-                        │
-                        
-                        ▼
-                        
-                 Registro de salida
-                 
-                        │
-                        
-                        ▼
-                        
+                     GEINAP                                           
+                        │                        
+                        ▼                     
+                     Node-RED                        
+                        │        
+        REST API + Bus de Eventos        
+                        │                        
+                        ▼                        
+                    Gestiona                    
+                        │                        
+                        ▼  
+                 Firma electrónica                 
+                        │                        
+                        ▼                        
+                 Registro de salida                 
+                        │                        
+                        ▼                        
                      GEINAP
                      
                      
