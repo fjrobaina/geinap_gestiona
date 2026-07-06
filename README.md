@@ -88,10 +88,14 @@ Gestiona API
 Bus de Eventos
 Firma Electrónica
 📂 Estructura del repositorio
-.
-├── Memoria.pdf
-├── Poster.pdf
-└── README.md
+
+    .
+    ├── Memoria.pdf
+    
+    ├── Poster.pdf
+    
+    └── README.md
+
 
 ✨ Funcionalidades
 Generación automática de certificados.
